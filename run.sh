@@ -8,8 +8,8 @@ wget https://raw.githubusercontent.com/arifxt/fishit/refs/heads/main/elementm.js
 #Gospin Menghub
 wget https://raw.githubusercontent.com/arifxt/fishit/refs/heads/main/gospinm.json
 
-mkdir -p  ~/storage/shared/Android/data/com.roblox.client/files/gloop/external/Workspace/Chloe\ X/FishIt/
-mkdir -p ~/storage/shared/Android/data/com.roblox.client/files/gloop/external/Workspace/Meng\ Hub_FishIt/Config/
+#mkdir -p  ~/storage/shared/Android/data/com.roblox.client/files/gloop/external/Workspace/Chloe\ X/FishIt/
+#mkdir -p ~/storage/shared/Android/data/com.roblox.client/files/gloop/external/Workspace/Meng\ Hub_FishIt/Config/
 
 sleep 3
 for i in {1..500}
