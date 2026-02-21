@@ -1,7 +1,4 @@
 #/bin/bash!
-pkg install wget -y
-wget https://deltaexecutor.filesadda.com/Delta-2.708-1.apk
-mv *.apk ~/storage/shared/Download/.
 #Element chloe
 wget https://raw.githubusercontent.com/arifxt/fishit/refs/heads/main/elementch.json
 #Gospin chloe
