@@ -11,7 +11,7 @@ wget https://raw.githubusercontent.com/arifxt/fishit/refs/heads/main/gospinm.jso
 mkdir -p  ~/storage/shared/Android/data/com.roblox.client/files/gloop/external/Workspace/Chloe\ X/FishIt/
 mkdir -p ~/storage/shared/Android/data/com.roblox.client/files/gloop/external/Workspace/Meng\ Hub_FishIt/Config/
 
-
+#Time
 timeout 10m bash -c '
 while true
 do
